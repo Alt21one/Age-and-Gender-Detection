@@ -16,4 +16,4 @@ Ensure your webcam is functional and well-positioned.
 
 The script detects faces and predicts age/gender in real time.
 
-Press q to stop.
+Press ```q``` to stop.
